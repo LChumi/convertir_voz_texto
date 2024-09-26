@@ -52,7 +52,7 @@ while True:
                 if 'triste' in comando:
                     say('¿Qué pasó? Te recomiendo bailar, no te preocupes, yo te quiero.')
                 elif 'feliz' in comando:
-                    say('¡Me alegro mucho!')
+                    say('¡Me alegro mucho! :)')
                 elif 'asustado' in comando:
                     say('No tengas miedo, ¡abrázame!')
             
