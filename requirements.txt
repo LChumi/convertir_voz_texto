@@ -3,6 +3,7 @@ charset-normalizer==3.3.2
 comtypes==1.4.7
 idna==3.10
 PyAudio==0.2.14
+pydub==0.25.1
 pypiwin32==223
 pyttsx3==2.97
 pywin32==306
